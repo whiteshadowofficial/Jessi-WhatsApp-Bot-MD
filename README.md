@@ -117,10 +117,6 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 
-
-## Contact Owner 
-<b><details><summary>Contact</summary></b>
-
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/94779529221"><img src="https://img.shields.io/badge/Contact Mr.White Shadow-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
