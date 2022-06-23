@@ -1,8 +1,8 @@
 {
-  "name": "Gojo-Satoru",
+  "name": "Jessi-Bot-Md",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/nexusNw/Gojo-Satoru",
-  "logo": "https://telegra.ph/file/4c2c0174e86ac3bac2ba8.jpg",
+  "repository": "https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD",
+  "logo": "https://telegra.ph/file/57e0679dc28177770f449.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
