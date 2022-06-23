@@ -132,6 +132,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 [MrChaby](https://github.com/MrChaby)
 ----
 > All photos and names of this project are owned by the first owner.
+----
 > This project was prepared with all his approval.
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
