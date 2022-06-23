@@ -11,11 +11,6 @@
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
 > If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
-## ⚠ Warnings & Disclaimers ⚠
-
-- By using kick, add, promote, demote Commands, **Your WhatsApp account may be banned.** This is an open source project, **you are responsible for everything you do.** Absolutely, Jessi executives **do not accept responsibility.** By establishing the Jessica, **you are deemed to have accepted these responsibilities.**
-
-- **WhatsApp** name, its variations and the logo are registered trademarks of Facebook. **We have nothing to do with the registered trademark.**
 
 
 
@@ -133,6 +128,15 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
   </div>
 ----
+----
+----
+## ⚠ Warnings & Disclaimers ⚠
+
+> - By using kick, add, promote, demote Commands, **Your WhatsApp account may be banned.** This is an open source project, **you are responsible for everything you do.** Absolutely, Jessi executives **do not accept responsibility.** By establishing the Jessica, **you are deemed to have accepted these responsibilities.**
+
+> - **WhatsApp** name, its variations and the logo are registered trademarks of Facebook. **We have nothing to do with the registered trademark.**
+----
+
 ## 💗 Credit 💗
  
 ----
