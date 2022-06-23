@@ -148,3 +148,5 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
 
 License: [MIT](https://github.com/whiteshadowofficial/LICENSE)
+
+*||Copyright © 2021 All right reserved||*
