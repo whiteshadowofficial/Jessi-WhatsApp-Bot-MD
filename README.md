@@ -174,9 +174,9 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
 
 
-License: [MIT](https://github.com/whiteshadowofficial/LICENSE)
+> License: [MIT](https://github.com/whiteshadowofficial/LICENSE)
 
-Click WA logo to Join Support Group 👇
+> Click WA logo to Join Support Group 👇
 <br>
 
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc)
@@ -184,8 +184,10 @@ Click WA logo to Join Support Group 👇
   <div align="center">
 
 
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+> ### Disclaimer
+----
+
+>`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 .
 
 > The project was created by Mr.White Shadow
