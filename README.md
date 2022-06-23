@@ -116,9 +116,9 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 </details>
 
 
-----
 
-<!-- Contact Owner -->
+
+## Contact Owner 
 <b><details><summary>Contact</summary></b>
 
 ## ```Connect With Me```
