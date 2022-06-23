@@ -127,9 +127,6 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 <a href="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg"><img src="https://img.shields.io/badge/Subscribe WS MODZ OFC-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 </p>
 
-</details>
-
-
 </details><hr>
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
@@ -146,6 +143,9 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 * [`Mr.White Shadow`](https://github.com/whiteshadowofficial)
 * [`Black Panther`](github.com/blackpantherofc)
 * [`MrChaby`](github.com/MrChaby)
+
+
+
 
 
 License: [MIT](https://github.com/whiteshadowofficial/LICENSE)
