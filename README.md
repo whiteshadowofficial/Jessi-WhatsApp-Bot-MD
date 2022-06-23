@@ -188,5 +188,7 @@ Click WA logo to Join Support Group 👇
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 .
 
+> The project was created by Mr.White Shadow
+
 
 *||Copyright © 2021 All right reserved||*
