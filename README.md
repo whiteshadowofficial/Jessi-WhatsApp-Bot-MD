@@ -126,11 +126,20 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
   </div>
+## 💗 Credit 💗
+ 
+----
+ > I will give toxic devil credits on my forked/cloned ropo of WhatsAlexa. I will never change it [©MR.CHABBY 💗 Jessica](https://github.com/MrChaby/Jessi).
+----
+ > Also Feel free to contribute & issue [report issues & feature request on issue session of the ropo](https://github.com/MrChaby/Jessi)... 🙂❤️
+  
+ ----
 
 [![MrChaby](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) 
 ----
 [MrChaby](https://github.com/MrChaby)
 ----
+
 > All photos and names of this project are owned by the first owner.
 ----
 > This project was prepared with all his approval.
