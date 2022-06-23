@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://telegra.ph/file/0edc0f3917fde20a7990a.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/57e0679dc28177770f449.jpg" alt="nz" width="350"/>
 </p>
 
-## STEFANIE
+## MS.JESSICA
 
 > <a href="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
@@ -10,7 +10,7 @@
 
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
-> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/whiteshadowofficial/STEFANIE-MD-WA-BOT/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
+> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/whiteshadowofficial/MS.Jessica-MD-WA-BOT/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
 
 
 </br>
