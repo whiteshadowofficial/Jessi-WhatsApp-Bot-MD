@@ -10,7 +10,7 @@
 
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
-> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/whiteshadowofficial/MS.Jessica-MD-WA-BOT/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
+> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
 
 
 </br>
@@ -39,7 +39,7 @@ Add FFmpeg to PATH environment variable
 <b><details><summary>Start via Heroku</summary></b>
 
 * Scan QR In Your Whatsapp From [Here](https://replit.com/@nexusNw/Md-Scanner?outputonly=1&lite=1)
-* Fork This Repo By Clicking [Here](https://github.com/whiteshadowofficial/STEFANIE-MD-WA-BOT/fork)
+* Fork This Repo By Clicking [Here](https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/fork)
 * then Deploy The Bot From [Here](https://heroku.com/deploy)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
@@ -61,7 +61,7 @@ Add FFmpeg to PATH environment variable
 > pkg install ffmpeg -y 
 > pkg install wget
 > pkg install imagemagick -y
-> git clone https://github.com/whiteshadowofficial/STEFANIE-MD-WA-BOT
+> git clone https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD
 > cd Gojo-Satoru
 > npm install
 ```
