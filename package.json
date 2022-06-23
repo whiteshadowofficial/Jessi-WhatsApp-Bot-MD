@@ -1,5 +1,5 @@
 {
-  "name": "Gojo-Satoru",
+  "name": "Jessi",
   "version": "2.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -11,14 +11,14 @@
     "termux",
     "whatsapp",
     "2022",
-    "GojoSatoru",
+    "Jessica",
     "base",
     "baileys-md",
     "bot",
     "bot-md",
     "multi-device"
   ],
-  "author": "NexusNw",
+  "author": "whiteshadow",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -65,10 +65,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nexusNw/Gojo-Satoru.git"
+    "url": "git+https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/nexusNw/Gojo-Satoru/issues"
+    "url": "https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/issues"
   },
-  "homepage": "https://github.com/nexusNw/Gojo-Satoru#readme"
+  "homepage": "https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD#readme"
 }
