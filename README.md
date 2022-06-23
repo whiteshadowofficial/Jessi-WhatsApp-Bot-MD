@@ -127,6 +127,9 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
   </div>
 
+[![MrChaby](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) |
+[MrChaby](https://github.com/MrChaby)
+
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
 ## Developers
