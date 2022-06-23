@@ -192,5 +192,8 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
 > The project was created by Mr.White Shadow
 
+____________________________________________
 
-*||Copyright © 2021 All right reserved||*
+> *||Copyright © 2021 All right reserved||*
+
+____________________________________________
