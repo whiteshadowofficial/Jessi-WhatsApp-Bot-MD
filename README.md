@@ -129,6 +129,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 
+  </div>
+
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
 ## Developers
@@ -138,7 +140,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ----|----|----
 [MrChaby](https://github.com/MrChaby)  | [TOXIC-DEWIL](https://github.com/whiteshadowofficial) | [Tutux](https://github.com/Tutux1)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
-  </div>
+
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Mr.White Shadow`](https://github.com/whiteshadowofficial)
