@@ -1,5 +1,5 @@
 <br>
-<center><img src="/TempCloud/PicsArt_22-04-15_10-13-49-205.png"><center>
+<center><img src="https://github.com/whiteshadowofficial/GARFIELD-WHATSAPP-BOT-v8/blob/main/TempCloud/PicsArt_22-04-15_10-13-49-205.png"><center>
   <p align="center">
 <img src="https://telegra.ph/file/57e0679dc28177770f449.jpg" alt="nz" width="350"/>
 </p>
