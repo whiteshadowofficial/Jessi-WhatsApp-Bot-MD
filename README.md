@@ -23,7 +23,7 @@
 <a href="https://github.com/whiteshadowofficial/network/members"><img title="Forks" src="https://img.shields.io/github/forks/whiteshadowofficial/STEFANIE-MD-WA-BOT?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/whiteshadowofficial/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/whiteshadowofficial/STEFANIE-MD-WA-BOT?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
-<img src="/TempCloud/PicsArt_22-04-17_17-34-37-772.png">
+<img src="https://github.com/whiteshadowofficial/GARFIELD-WHATSAPP-BOT-v8/blob/main/TempCloud/PicsArt_22-04-17_17-34-37-772.png">
     
   <b><h1>To scan the Qr code and Link 🔗 to WhatsApp Multi Device (24×7 Hour Bot) 🛰️</b></h1>
   
@@ -31,7 +31,7 @@
 <a href="https://replit.com/@virusfucker/Jessi-WhatsApp-Bot-MD?v=1outputonly=1&lite=1#index.js"><img src="/TempCloud/PicsArt_22-04-16_22-52-38-348.png"></center>
 <br>
    <b><h1>Deploy Now ♨️</b></h1>
-   <a href="https://heroku.com/deploy"><img src="/TempCloud/PicsArt_22-04-15_12-59-28-786.png">
+   <a href="https://heroku.com/deploy"><img src="https://github.com/whiteshadowofficial/GARFIELD-WHATSAPP-BOT-v8/blob/main/TempCloud/PicsArt_22-04-15_12-59-28-786.png">
 <br>
 
 ---
