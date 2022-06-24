@@ -1,4 +1,4 @@
- align="center">
+
 <img src="https://telegra.ph/file/57e0679dc28177770f449.jpg" alt="nz" width="350"/>
 </p>
 
