@@ -14,6 +14,13 @@
 
 
 
+> How to create bot in sinhala...👇
+
+https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/wiki/How-to-create-bot-in-sinhala
+
+
+
+
 </br>
 
 <a href="https://github.com/whiteshadowofficial"><img title="Author" src="https://img.shields.io/badge/Author-whiteshadowofficial-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
