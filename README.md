@@ -28,18 +28,10 @@ https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/wiki/How-to-create-
 <a href="https://github.com/whiteshadowofficial/network/members"><img title="Forks" src="https://img.shields.io/github/forks/whiteshadowofficial/STEFANIE-MD-WA-BOT?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/whiteshadowofficial/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/whiteshadowofficial/STEFANIE-MD-WA-BOT?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
-<img src="https://github.com/whiteshadowofficial/GARFIELD-WHATSAPP-BOT-v8/blob/main/TempCloud/PicsArt_22-04-17_17-34-37-772.png">
-    
-  <b><h1>To scan the Qr code and Link 🔗 to WhatsApp Multi Device (24×7 Hour Bot) 🛰️</b></h1>
-  
- <center>
-<a href="https://replit.com/@Kaweeshachamodk/Jessi-WhatsApp-Bot-MD-Public-release-Scanner?v=1outputonly=1&lite=1#index.js"><img src="https://github.com/whiteshadowofficial/GARFIELD-WHATSAPP-BOT-v8/blob/main/TempCloud/PicsArt_22-04-16_22-52-38-348.png"></center>
-<br>
-   <b><h1>Deploy Now ♨️</b></h1>
-   <a href="https://heroku.com/deploy"><img src="https://github.com/whiteshadowofficial/GARFIELD-WHATSAPP-BOT-v8/blob/main/TempCloud/PicsArt_22-04-15_12-59-28-786.png">
-<br>
 
----
+
+> <a href="https://github.com/whiteshadowofficial/Jessi-Setup"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+
 
 <!-- Requirements -->
 <b><details><summary>Requirements</summary></b>
@@ -54,37 +46,11 @@ Add FFmpeg to PATH environment variable
 </details>
 
 
-<!-- Start via Heroku -->
-<b><details><summary>Start via Heroku</summary></b>
-
-* Scan QR In Your Whatsapp From [Here](https://replit.com/@Kaweeshachamodk/Jessi-WhatsApp-Bot-MD-Public-release-Scanner?v=1outputonly=1&lite=1#index.js)
-* Fork This Repo By Clicking [Here](https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/fork)
-* then Deploy The Bot From [Here](https://heroku.com/deploy)
-* Wait 5-10 Min To Deploy 
-* After Deploying On The Worker And Check The Logs
-
-</details>
 
 
 
-<!-- Installation via Termux -->
-<b><details><summary>Installation on Termux</summary></b>
-```bash
-> apt update
-> apt upgrade
-> pkg update && pkg upgrade
-> pkg install bash
-> pkg install libwebp
-> pkg install git -y
-> pkg install nodejs -y 
-> pkg install ffmpeg -y 
-> pkg install wget
-> pkg install imagemagick -y
-> git clone https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD
-> cd Gojo-Satoru
-> npm install
-```
-</details>
+
+
 
 <!-- Edit -->
 <b><details><summary>Edit settings.js</summary></b>
