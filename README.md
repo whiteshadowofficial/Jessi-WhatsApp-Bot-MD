@@ -54,7 +54,7 @@
 
 ----
 
-> <a href="https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/Features.md"><img src="https://img.shields.io/badge/Jessica-All Futures-ff0000?style=for-the-badge&logo=github&logoColor=yellowlink=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/Features.md"><img src="https://img.shields.io/badge/Jessica-All Futures-FF0190CF?style=for-the-badge&logo=github&logoColor=FF0190CF&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 
   </div>
