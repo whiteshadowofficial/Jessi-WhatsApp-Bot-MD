@@ -4,7 +4,6 @@
 
 ## MS.JESSICA
 
-> <a href="https://youtu.be/_X9sl_0-LfU"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 > [Automated Multi Device whatsapp bot created](https://github.com/whiteshadowofficial) by [Mr.White Shadow](https://github.com/whiteshadowofficial)
 
@@ -43,7 +42,7 @@
 
 
 
-https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/Features.md
+
 ----
 
 
@@ -53,6 +52,9 @@ https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/Features.md
 <a href="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg"><img src="https://img.shields.io/badge/Subscribe WS MODZ OFC-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 </p>
 
+----
+
+> <a href="https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/Features.md"><img src="https://img.shields.io/badge/Jessica-All Futures-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 
   </div>
