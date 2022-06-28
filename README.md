@@ -13,11 +13,11 @@
 
 
 
-> How to create bot in ...👇
+> Setup bot now ...👇
 
 ----
 
-> <a href="https://github.com/whiteshadowofficial/Jessi-Setup"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://github.com/whiteshadowofficial/Jessi-Setup"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-ff0000?style=for-the-badge&logo=github&logoColor=FFFFFF6B&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 ----
 
