@@ -29,77 +29,12 @@ https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/wiki/How-to-create-
 <a href="https://github.com/whiteshadowofficial/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/whiteshadowofficial/STEFANIE-MD-WA-BOT?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 
+----
 
 > <a href="https://github.com/whiteshadowofficial/Jessi-Setup"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 
-<!-- Requirements -->
-<b><details><summary>Requirements</summary></b>
-* Some Text Editor
-* [Node JS](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFMPEG](https://ffmpeg.org/download.html)
-  
-```bash
-Add FFmpeg to PATH environment variable
-```
-</details>
-
-
-
-
-
-
-
-
-<!-- Edit -->
-<b><details><summary>Edit settings.js</summary></b>
-```bash
-global.APIKeys = {
-	'https://zenzapis.xyz': 'YOURAPIKEY',
-}
-  
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
-```
-</details>
-
-
-<!-- 24hrs-->
-<b><details><summary>For 24 Hours Activation</summary></b>
-
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
-
-</details>
-
 ----
-
-
-<b><details><summary>Available Features</summary><br>
-	
-| Features |  Availability |
-| :------: |  :----------: |
-|   Convert     |       ✅     |
-|   Database     |       ✅     |
-|   Owner     |       ✅    |
-|   Islami     |       ✅     |
-|   Downloader     |       ✅     |
-|   Webzone     |       ✅[      |
-|   Searching     |       ✅      |
-|   Textpro     |       ✅      |
-|   Ephoto     |       ✅     |
-|   Anime Web     |       ✅      |
-|   Stalker     |       ✅      |
-|   Random Text     |       ✅     |
-|   Random Image     |       ✅     |
-|   Nekos Life     |       ✅      |
-|   More TEXT     |       ✅      |
-|   Creator     |       ✅      |
-
-</details>
-
 
 
 ## ```Connect With Me```
