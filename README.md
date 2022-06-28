@@ -7,10 +7,7 @@
 
 > [Automated Multi Device whatsapp bot created](https://github.com/whiteshadowofficial) by [Mr.White Shadow](https://github.com/whiteshadowofficial)
 
-> Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
-
-> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
-
+----
 
 
 > Setup bot now ...👇
@@ -46,11 +43,20 @@
 ----
 
 
-## ```Connect With Me```
+## Connect With Me
 <p align="center">
-<a href="https://wa.me/94779529221"><img src="https://img.shields.io/badge/Contact Mr.White Shadow-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg"><img src="https://img.shields.io/badge/Subscribe WS MODZ OFC-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
+<a href=""><img src="https://img.shields.io/badge/Contact Mr.White Shadow-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href=""><img src="https://img.shields.io/badge/Subscribe WS MODZ OFC-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 </p>
+
+----
+
+> <a href="https://wa.me/94779529221"><img src="https://img.shields.io/badge/Contact-White Shadow-ff0000?style=for-the-badge&logo=whatsapp&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+
+
+----
+
+> <a href="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg"><img src="https://img.shields.io/badge/Subscribe-My YT Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 ----
 
