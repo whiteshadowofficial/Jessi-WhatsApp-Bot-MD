@@ -16,8 +16,15 @@
 
 > How to create bot in sinhala...👇
 
+----
+
+> <a href="https://github.com/whiteshadowofficial/Jessi-Setup"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+
+----
+
 https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/wiki/How-to-create-bot-in-sinhala
 
+----
 
 
 
@@ -29,11 +36,8 @@ https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/wiki/How-to-create-
 <a href="https://github.com/whiteshadowofficial/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/whiteshadowofficial/STEFANIE-MD-WA-BOT?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 
-----
 
-> <a href="https://github.com/whiteshadowofficial/Jessi-Setup"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
-
-
+https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/Features.md
 ----
 
 
