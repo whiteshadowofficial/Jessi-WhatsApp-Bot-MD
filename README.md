@@ -25,7 +25,7 @@
 
 ----
 
-> <a href="https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/wiki/How-to-create-bot-in-sinhala"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/wiki/How-to-create-bot-in-sinhala"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-4D009DE2?style=for-the-badge&logo=github&logoColor=4D009DE2&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 
 
