@@ -10,20 +10,13 @@
 ----
 
 
-> Setup bot now ...👇
+> 𝗩𝗜𝗘𝗪 𝗜𝗡 𝗠𝗬 𝗪𝗘𝗕𝗦𝗜𝗧𝗘
 
 ----
 
-> <a href="https://github.com/whiteshadowofficial/Jessi-Setup"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-FFFFFF6B?style=for-the-badge&logo=github&logoColor=FFFFFF6B&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="whiteshadowofficial/html-1"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-FFFFFF6B?style=for-the-badge&logo=github&logoColor=FFFFFF6B&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 ----
-
-> Setup Bot in sinhala...👇
-
-----
-
-> <a href="https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/wiki/How-to-create-bot-in-sinhala"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-4D009DE2?style=for-the-badge&logo=github&logoColor=4D009DE2&link=https://www.youtube.com/c/BOTINDO" /><br>
-
 
 
 ----
