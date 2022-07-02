@@ -19,7 +19,7 @@
 <br>
             <h5 align="center">🎭 Deploy to heroku...👇
 <br>
-<a href="https://heroku.com/deploy?template"><img src="https://img.shields.io/badge/Deploy-To Heroku-DE000000?style=for-the-badge&logo=heroku&logoColor=DE000000&link=https://www.youtube.com/c/BOTINDO" />
+<a href="https://heroku.com/deploy?"><img src="https://img.shields.io/badge/Deploy-To Heroku-DE000000?style=for-the-badge&logo=heroku&logoColor=DE000000&link=https://www.youtube.com/c/BOTINDO" />
 <br>
 
 
