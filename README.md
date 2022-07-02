@@ -17,10 +17,10 @@
 > <a href="https://whiteshadowofficial.github.io/body-html-1/"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-FFFFFF6B?style=for-the-badge&logo=github&logoColor=FFFFFF6B&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 <br>
-            <h5 align="center">🎭 Deploy to heroku...👇
-<br>
-<a href="https://heroku.com/deploy?"><img src="https://img.shields.io/badge/Deploy-To Heroku-DE000000?style=for-the-badge&logo=heroku&logoColor=DE000000&link=https://www.youtube.com/c/BOTINDO" />
-<br>
+
+Copu this url and add your repo url and deploy
+
+```https://heroku.com/deploy?template=https://github.com/whiteshadowofficial/WhatsAppBot-MD```
 
 
 ----
