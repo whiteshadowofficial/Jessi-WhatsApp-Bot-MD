@@ -47,7 +47,7 @@ Copu this url and add your repo url and deploy
 
 ----
 
-> <a href="https://wa.me/94779529221"><img src="https://img.shields.io/badge/Contact-White Shadow-4D009DE2?style=for-the-badge&logo=whatsapp&logoColor=4D009DE2&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="http://wa.me/+9479529221?text=හායි+🙈🌸+වද🪄+දෙන්න+ඔයාට🥰+githb+එකෙන්+INBOX+🤭+ආවෙ+🪄❢❢_"><img src="https://img.shields.io/badge/Contact-White Shadow-4D009DE2?style=for-the-badge&logo=whatsapp&logoColor=4D009DE2&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 
 ----
