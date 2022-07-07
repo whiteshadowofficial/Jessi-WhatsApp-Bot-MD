@@ -19,7 +19,7 @@
 <br>
 
 <b><h1>Deploy Now ♨️</b></h1>
-   <a href="https://heroku.com/deploy"><img src="/TempCloud/PicsArt_22-04-15_12-59-28-786.png">
+   <a href="https://heroku.com/deploy"><img src="https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8/TempCloud/PicsArt_22-04-15_12-59-28-786.png">
 <br>
 
 ----
